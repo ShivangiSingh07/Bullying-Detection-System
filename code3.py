@@ -18,5 +18,6 @@ is_student = input("Are you a student? (yes/no): ")
 
 if is_student.lower() == "yes":
     print("Keep learning and growing!")
+
 else:
     print("Lifelong learning is still important!")
