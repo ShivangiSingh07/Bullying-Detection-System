@@ -1,3 +1,4 @@
+
 # day2_basics.py
 # Learning variables, input, and output
 
