@@ -19,3 +19,4 @@ for num in range(1, 6):
 # Practice ideas:
 # - Try printing numbers from 1 to 10.
 # - Print only even numbers using if condition inside the loop.
+
