@@ -15,3 +15,4 @@ print("Student:", is_student)
 # Taking input
 fav_lang = input("Enter your favorite programming language: ")
 print("Cool! You like", fav_lang)
+
