@@ -17,3 +17,4 @@ The goal is to build a strong foundation before finals in May and track my progr
 ---
 
 ✨ This is my coding diary—small steps every day lead to big results!
+
