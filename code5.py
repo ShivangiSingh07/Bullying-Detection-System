@@ -39,3 +39,4 @@ while num < 10:
 # Practice ideas:
 # - Try making a loop that prints numbers from 10 down to 1.
 # - Create a guessing game where the loop continues until the user guesses the right number.
+
