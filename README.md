@@ -61,9 +61,3 @@ Flow:
 User Input → Preprocessing → ML Model → Prediction → UI Display → Dashboard Visualization  
 
 ---
-
-## 👩‍💻 Contributors
-- Student A (Backend & ML): Dataset, preprocessing, model training, evaluation.  
-- Student B (Frontend & Integration): UI, dashboard, documentation, testing.  
-
----
